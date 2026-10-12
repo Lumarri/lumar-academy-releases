@@ -1,48 +1,41 @@
 # Lumar Academy ♡
 
-Tu campus anime para aprender matemáticas, lógica, física y ciencia de datos con teoría, tutoras con personalidad y ejercicios paso a paso.
+Tu academia anime para aprender matemáticas, física y computación con tutoras, teoría y ejercicios paso a paso.
 
-**[Descargar para Android · 1.0.1-preview.2](https://github.com/Lumarri/lumar-academy-releases/releases/tag/v1.0.1-preview.2)**
+**[Descargar para Android · 1.0.2-preview.3](https://github.com/Lumarri/lumar-academy-releases/releases/tag/v1.0.2-preview.3)**
 
-Abre **Assets** y descarga `Lumar-Academy-v1.0.1-preview.2.apk`. Es una versión de prueba compilada en modo release. El código fuente se mantiene privado; los ZIP/TAR de «Source code» contienen solo esta presentación y sus capturas.
-
-<p align="center">
-  <img src="screenshots/campus_claro.png" width="190" alt="Kurisu te recibe en el campus claro" />
-  <img src="screenshots/campus_oscuro.png" width="190" alt="Campus en violeta oscuro pastel" />
-  <img src="screenshots/catalogo_fisica.png" width="190" alt="Física introductoria y universitaria como cursos independientes" />
-</p>
-
-**13 cursos · 109 etapas · 2870 ejercicios** con teoría, ejemplos resueltos, pistas, explicaciones de errores y progreso guardado en tu dispositivo.
-
-Álgebra, geometría, trigonometría, logaritmos y potencias, ecuaciones de segundo grado, precálculo, álgebra lineal, lógica, cálculo, física clásica introductoria, Física 1 universitaria y ciencia de datos.
-
-## Nuevo: el laboratorio de Kurisu
-
-**Ciencia de Datos** está disponible exclusivamente con **Kurisu Makise**: 12 etapas, 240 retos, estadística, probabilidad, modelos y evaluación. Sus diálogos originales rotan con referencias a Steins;Gate, pistas concretas y despedidas de etapa. Elige a Kurisu y abre el filtro **Datos**; cambiar de tutora conserva tus avances.
+En **Assets**, descarga `Lumar-Academy-v1.0.2-preview.3.apk`. `SHA256SUMS.txt` permite verificar el archivo. Es una versión de prueba; el código de la app permanece privado. Los ZIP/TAR de «Source code» contienen solo esta presentación y las capturas.
 
 <p align="center">
-  <img src="screenshots/datos_catalogo.png" width="190" alt="Ciencia de Datos, exclusivo de Kurisu Makise" />
-  <img src="screenshots/datos_teoria_oscuro.png" width="190" alt="Teoría estadística con fórmulas LaTeX" />
-  <img src="screenshots/datos_kurisu_pista.png" width="190" alt="Kurisu acompaña un ejercicio con una pista" />
+  <img src="screenshots/inicio_sakura_kurisu.png" width="220" alt="Inicio nocturno con saludo personalizado y Kurisu encima del diálogo" />
+  <img src="screenshots/inicio_sakura_rukia.png" width="220" alt="Rukia te recibe en la academia violeta" />
+  <img src="screenshots/cuantica_tunel_oscuro.png" width="220" alt="Mecánica cuántica con teoría y ejemplos resueltos" />
 </p>
+
+**17 cursos · 165 etapas · 4230 ejercicios**, más 36 ejemplos de mecánica cuántica. Fórmulas LaTeX, pistas, explicación de errores y progreso guardado en tu dispositivo.
+
+Desde álgebra, geometría y trigonometría hasta cálculo, álgebra lineal, Física 1 y 2, ciencia de datos y ciencias de la computación. Las materias exclusivas tienen su propia tutora: Kurisu en datos y cuántica, Itsuki en computación y Karane en aritmética de olimpiada.
 
 ## El club de tutoras
 
 | Tutora | Su invitación |
 | --- | --- |
-| Kurisu Makise | «Okabe puede inventar nombres y Daru preparar herramientas; tú y yo haremos preguntas, revisaremos evidencia y reconoceremos incertidumbre.» |
+| Kurisu Makise | «Abramos Álgebra. Una buena pregunta y un método claro; el discurso de Okabe puede esperar.» |
 | Yuno Gasai | «Esta página necesita buenas razones, no una predicción afortunada. ♡» |
 | Kotoko Ijichi | «¡Takuya y Kei, próximo episodio: ideas que toman forma!» |
 | Hakari Hanazono | «Mi estrategia empieza por escuchar tus preguntas. ♡» |
 | Karane Inda | «¡Una base firme y ningún signo perdido! Sí, te acompaño.» |
 | Itsuki Nakano | «Quiero enseñar como mi madre: primero unas bases claras.» |
+| Rukia Kuchiki | «Ichigo no aprendió todo de golpe; tú tampoco necesitas saltarte la introducción para impresionarme.» |
 
-Frases originales de la adaptación educativa de Lumar Academy. Los personajes aparecen sobre la interfaz con las imágenes aportadas por su creador.
+Diálogos originales de la adaptación educativa. **Urumi Kanzaki** acompaña exclusivamente Filosofía en el Cuaderno.
 
-También encontrarás búsqueda y filtros de cursos, fórmulas LaTeX, modos claro y violeta oscuro pastel, ajustes de movimiento, repaso de lo que te cuesta y un cuaderno de curiosidades con lecturas recomendadas.
+Inicio, Cursos, Cuaderno y Perfil organizan la academia. Encontrarás rutas de estudio, repaso, música, ajustes de lectura, respaldos locales y un Cuaderno con 50 curiosidades, 19 lecturas de teorías y análisis y 14 documentos de filosofía. Toda la interfaz usa violeta oscuro pastel.
+
+Al final de Inicio, una invitada tiene 90 frases bromistas y reflexivas que cambian al abrir la app o regresar. Sí: también pregunta si ya comiste.
 
 ## Próximamente
 
-Más tutoras, expresiones y cursos, incluyendo **programación** y **mecánica cuántica**, además de nuevas materias de matemáticas y física.
+Más tutoras, expresiones y cursos de matemáticas, física y programación. Las novedades aparecerán en [Releases](https://github.com/Lumarri/lumar-academy-releases/releases).
 
-Las novedades y descargas se publican en [Releases](https://github.com/Lumarri/lumar-academy-releases/releases). Puedes instalar la APK sobre la versión anterior conservando sus datos; desinstalar la app o borrar sus datos elimina el progreso local. Todavía no hay descarga para iOS.
+Puedes actualizar instalando la APK sobre la anterior. Desinstalar la app o borrar sus datos elimina el progreso local. Todavía no hay descarga para iOS.
