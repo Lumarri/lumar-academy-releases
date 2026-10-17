@@ -2,9 +2,9 @@
 
 Tu academia anime para aprender matemáticas, física, computación e idiomas con tutoras, teoría y ejercicios paso a paso.
 
-**[Descargar para Android · Versión 1.2.0](https://github.com/Lumarri/lumar-academy-releases/releases/tag/v1.2.0)**
+**[Descargar para Android · Versión 1.3.0](https://github.com/Lumarri/lumar-academy-releases/releases/tag/v1.3.0)**
 
-En **Assets**, descarga `Lumar-Academy-v1.2.0.apk`. `SHA256SUMS.txt` permite verificar el archivo. El código de la app permanece privado. Los ZIP/TAR de «Source code» contienen solo esta presentación y las capturas.
+En **Assets**, descarga `Lumar-Academy-v1.3.0.apk`. `SHA256SUMS.txt` permite verificar el archivo. El código de la app permanece privado. Los ZIP/TAR de «Source code» contienen solo esta presentación y las capturas.
 
 <p align="center">
   <img src="screenshots/inicio_sakura_kurisu.png" width="220" alt="Inicio nocturno con saludo personalizado y Kurisu encima del diálogo" />
@@ -16,9 +16,19 @@ En **Assets**, descarga `Lumar-Academy-v1.2.0.apk`. `SHA256SUMS.txt` permite ver
 
 Desde álgebra, geometría y trigonometría hasta cálculo, álgebra lineal, Física 1 y 2, ciencia de datos y ciencias de la computación. Las materias exclusivas tienen su propia tutora: Kurisu en datos y cuántica, Itsuki en computación y Karane en aritmética de olimpiada.
 
-**Nuevo en 1.2.0:** Inglés desde cero hasta B2 con Hakari (56 etapas, 1120 ejercicios y 112 lecturas) y Japonés desde cero hacia N5 con Kotoko (32 etapas, 640 ejercicios y 64 lecturas). Teoría explicada, frases que construyes con fichas, pistas y dificultad gradual. El japonés incluye botones de audio con voz del teléfono, modo lento/normal y música atenuada mientras habla. Una voz japonesa instalada permite usarlo sin conexión; no califica pronunciación ni expide certificación JLPT.
+**Nuevo en 1.3.0 · Cuaderno:** ocho métodos de estudio con ejemplos y fuentes, 91 intervenciones de las tutoras y herramientas para organizar tus sesiones. Guarda objetivos, intentos y correcciones; usa el temporizador opcional de enfoque/descanso y programa hasta 40 preguntas con tus propias referencias y fechas editables. Todo funciona localmente y se incluye en los respaldos. Las autoevaluaciones son tuyas; el reloj no concede progreso académico.
 
-En **Ajustes → Idioma de la aplicación**, elige **Español / English** conservando tu avance. La interfaz, los comentarios de Inicio y Álgebra, Geometría y Trigonometría tienen inglés revisado: 19 etapas y 380 ejercicios con teoría, pistas, errores y diálogos de las siete tutoras. Las demás lecciones, artículos y el guion de la novela visual mantienen su contenido español hasta los próximos bloques de traducción.
+**Becas y oportunidades:** 30 programas internacionales de Asia, Europa y América, para pregrado, maestría, doctorado y estancias de investigación. Filtros, favoritos, universidades, requisitos de nacionalidad y residencia, financiación, guía de preparación y fuentes oficiales. Catálogo consultable sin conexión, revisado el 17 de octubre de 2026; comprueba las bases vigentes antes de postular. Kurisu también tiene una nueva despedida sobre el potencial del futuro.
+
+<p align="center">
+  <img src="screenshots/metodos_catalogo.png" width="220" alt="Métodos de estudio con las tutoras" />
+  <img src="screenshots/metodos_sesion.png" width="220" alt="Temporizador y espacio de estudio local" />
+  <img src="screenshots/becas_ficha.png" width="220" alt="Una beca con fuentes y comentarios de Kurisu" />
+</p>
+
+Inglés desde cero hasta B2 con Hakari (56 etapas, 1120 ejercicios y 112 lecturas) y Japonés desde cero hacia N5 con Kotoko (32 etapas, 640 ejercicios y 64 lecturas). Teoría explicada, frases que construyes con fichas, pistas y dificultad gradual. El japonés incluye botones de audio con voz del teléfono, modo lento/normal y música atenuada mientras habla. Una voz japonesa instalada permite usarlo sin conexión; no califica pronunciación ni expide certificación JLPT.
+
+En **Ajustes → Idioma de la aplicación**, elige **Español / English** conservando tu avance. La interfaz, los comentarios de Inicio y Álgebra, Geometría y Trigonometría tienen inglés revisado: 19 etapas y 380 ejercicios con teoría, pistas, errores y diálogos de las siete tutoras. Becas y Métodos de estudio también están completos en ambos idiomas. Las demás lecciones, artículos y el guion de la novela visual mantienen su contenido español hasta los próximos bloques de traducción.
 
 ## El club de tutoras
 
@@ -34,7 +44,7 @@ En **Ajustes → Idioma de la aplicación**, elige **Español / English** conser
 
 Diálogos originales de la adaptación educativa. **Urumi Kanzaki** acompaña exclusivamente Filosofía en el Cuaderno.
 
-Inicio, Cursos, Cuaderno y Perfil organizan la academia. Encontrarás rutas de estudio, repaso, música, ajustes de lectura, respaldos locales y un Cuaderno con 50 curiosidades, 19 lecturas de teorías y análisis y 14 documentos de filosofía. Toda la interfaz usa violeta oscuro pastel.
+Inicio, Cursos, Cuaderno y Perfil organizan la academia. Encontrarás rutas de estudio, repaso, música, ajustes de lectura, respaldos locales y un Cuaderno con 50 curiosidades, 19 lecturas de teorías y análisis, 14 documentos de filosofía, 30 becas y ocho guías de estudio. Toda la interfaz usa violeta oscuro pastel.
 
 Al final de Inicio, una invitada tiene 90 frases bromistas y reflexivas que cambian al abrir la app o regresar. Sí: también pregunta si ya comiste.
 
