@@ -1,10 +1,10 @@
 # Lumar Academy ♡
 
-Tu academia anime para aprender matemáticas, física y computación con tutoras, teoría y ejercicios paso a paso.
+Tu academia anime para aprender matemáticas, física, computación e idiomas con tutoras, teoría y ejercicios paso a paso.
 
-**[Descargar para Android · Versión final 1.1.0](https://github.com/Lumarri/lumar-academy-releases/releases/tag/v1.1.0)**
+**[Descargar para Android · Versión 1.2.0](https://github.com/Lumarri/lumar-academy-releases/releases/tag/v1.2.0)**
 
-En **Assets**, descarga `Lumar-Academy-v1.1.0.apk`. `SHA256SUMS.txt` permite verificar el archivo. Esta publicación cierra la primera etapa del proyecto; el código de la app permanece privado. Los ZIP/TAR de «Source code» contienen solo esta presentación y las capturas.
+En **Assets**, descarga `Lumar-Academy-v1.2.0.apk`. `SHA256SUMS.txt` permite verificar el archivo. El código de la app permanece privado. Los ZIP/TAR de «Source code» contienen solo esta presentación y las capturas.
 
 <p align="center">
   <img src="screenshots/inicio_sakura_kurisu.png" width="220" alt="Inicio nocturno con saludo personalizado y Kurisu encima del diálogo" />
@@ -12,9 +12,13 @@ En **Assets**, descarga `Lumar-Academy-v1.1.0.apk`. `SHA256SUMS.txt` permite ver
   <img src="screenshots/cuantica_tunel_oscuro.png" width="220" alt="Mecánica cuántica con teoría y ejemplos resueltos" />
 </p>
 
-**17 cursos · 165 etapas · 4230 ejercicios**, más 36 ejemplos de mecánica cuántica. Fórmulas LaTeX, pistas, explicación de errores y progreso guardado en tu dispositivo.
+**19 cursos · 253 etapas · 5990 ejercicios**, más 36 ejemplos de mecánica cuántica y 176 lecturas de idiomas. Fórmulas LaTeX, pistas, explicación de errores y progreso guardado en tu dispositivo.
 
 Desde álgebra, geometría y trigonometría hasta cálculo, álgebra lineal, Física 1 y 2, ciencia de datos y ciencias de la computación. Las materias exclusivas tienen su propia tutora: Kurisu en datos y cuántica, Itsuki en computación y Karane en aritmética de olimpiada.
+
+**Nuevo en 1.2.0:** Inglés desde cero hasta B2 con Hakari (56 etapas, 1120 ejercicios y 112 lecturas) y Japonés desde cero hacia N5 con Kotoko (32 etapas, 640 ejercicios y 64 lecturas). Teoría explicada, frases que construyes con fichas, pistas y dificultad gradual. El japonés incluye botones de audio con voz del teléfono, modo lento/normal y música atenuada mientras habla. Una voz japonesa instalada permite usarlo sin conexión; no califica pronunciación ni expide certificación JLPT.
+
+En **Ajustes → Idioma de la aplicación**, elige **Español / English** conservando tu avance. La interfaz, los comentarios de Inicio y Álgebra, Geometría y Trigonometría tienen inglés revisado: 19 etapas y 380 ejercicios con teoría, pistas, errores y diálogos de las siete tutoras. Las demás lecciones, artículos y el guion de la novela visual mantienen su contenido español hasta los próximos bloques de traducción.
 
 ## El club de tutoras
 
