@@ -2,9 +2,9 @@
 
 Tu academia anime para aprender matemáticas, física, computación e idiomas con tutoras, teoría y ejercicios paso a paso.
 
-**[Descargar para Android · Versión 1.3.0](https://github.com/Lumarri/lumar-academy-releases/releases/tag/v1.3.0)**
+**[Descargar para Android · Versión 1.4.0](https://github.com/Lumarri/lumar-academy-releases/releases/tag/v1.4.0)**
 
-En **Assets**, descarga `Lumar-Academy-v1.3.0.apk`. `SHA256SUMS.txt` permite verificar el archivo. El código de la app permanece privado. Los ZIP/TAR de «Source code» contienen solo esta presentación y las capturas.
+En **Assets**, descarga `Lumar-Academy-v1.4.0.apk`. `SHA256SUMS.txt` permite verificar el archivo. El código de la app permanece privado. Los ZIP/TAR de «Source code» contienen solo esta presentación y las capturas.
 
 <p align="center">
   <img src="screenshots/inicio_sakura_kurisu.png" width="220" alt="Inicio nocturno con saludo personalizado y Kurisu encima del diálogo" />
@@ -12,11 +12,35 @@ En **Assets**, descarga `Lumar-Academy-v1.3.0.apk`. `SHA256SUMS.txt` permite ver
   <img src="screenshots/cuantica_tunel_oscuro.png" width="220" alt="Mecánica cuántica con teoría y ejemplos resueltos" />
 </p>
 
-**19 cursos · 253 etapas · 5990 ejercicios**, más 36 ejemplos de mecánica cuántica y 176 lecturas de idiomas. Fórmulas LaTeX, pistas, explicación de errores y progreso guardado en tu dispositivo.
+**25 cursos · 323 etapas · 7390 ejercicios**, más 36 ejemplos de mecánica cuántica y 208 lecturas de idiomas. Fórmulas LaTeX, pistas, explicación de errores y progreso guardado en tu dispositivo.
 
 Desde álgebra, geometría y trigonometría hasta cálculo, álgebra lineal, Física 1 y 2, ciencia de datos y ciencias de la computación. Las materias exclusivas tienen su propia tutora: Kurisu en datos y cuántica, Itsuki en computación y Karane en aritmética de olimpiada.
 
-**Nuevo en 1.3.0 · Cuaderno:** ocho métodos de estudio con ejemplos y fuentes, 91 intervenciones de las tutoras y herramientas para organizar tus sesiones. Guarda objetivos, intentos y correcciones; usa el temporizador opcional de enfoque/descanso y programa hasta 40 preguntas con tus propias referencias y fechas editables. Todo funciona localmente y se incluye en los respaldos. Las autoevaluaciones son tuyas; el reloj no concede progreso académico.
+**Nuevo en 1.4.0 · Seis aulas exclusivas:**
+
+| Curso | Tutora | Etapas | Ejercicios |
+| --- | --- | ---: | ---: |
+| Inglés C1 | Karane Inda | 16 | 320 |
+| Ingeniería de IA: LLM y agentes | Rukia Kuchiki | 12 | 240 |
+| Matemática discreta | Yuno Gasai | 12 | 240 |
+| Métodos numéricos | Itsuki Nakano | 10 | 200 |
+| Sumatorias | Kotoko Ijichi | 8 | 160 |
+| Ecuaciones diferenciales | Kurisu Makise | 12 | 240 |
+
+**C1 con Karane** continúa desde B2 con 32 lecturas, 16 trabajos escritos, modelos, guardado y revisión propia. Al finalizar puedes exportar un certificado interno en PDF con anexo. Es una constancia de Lumar, no una acreditación oficial de nivel C1.
+
+**IA con Rukia** enseña instrucciones, contexto, JSON, RAG, herramientas, agentes y evaluación mediante teoría y simulaciones locales, sin claves ni servicios de pago. **Las nuevas matemáticas** añaden laboratorios de grafos, bisección/Newton, sumatorias y Euler frente a una solución exacta. Ecuaciones diferenciales comienza con las herramientas de cálculo y avanza a Laplace y sistemas intermedios. Cada curso tiene diálogos propios, humor y referencias de su tutora.
+
+<p align="center">
+  <img src="screenshots/ingles_c1_karane.png" width="210" alt="Inglés C1 con Karane" />
+  <img src="screenshots/ingenieria_ia_json.png" width="210" alt="Taller JSON local con Rukia" />
+  <img src="screenshots/discreta_yuno_laboratorio.png" width="210" alt="Grafo interactivo con Yuno" />
+  <img src="screenshots/metodos_numericos_itsuki_laboratorio.png" width="210" alt="Métodos numéricos con Itsuki" />
+  <img src="screenshots/sumatorias_kotoko_laboratorio.png" width="210" alt="Sumatorias con Kotoko" />
+  <img src="screenshots/ecuaciones_diferenciales_kurisu_laboratorio.png" width="210" alt="Euler y solución exacta con Kurisu" />
+</p>
+
+**Cuaderno:** ocho métodos de estudio con ejemplos y fuentes, 91 intervenciones de las tutoras y herramientas para organizar tus sesiones. Guarda objetivos, intentos y correcciones; usa el temporizador opcional de enfoque/descanso y programa hasta 40 preguntas con tus propias referencias y fechas editables. Todo funciona localmente y se incluye en los respaldos. Las autoevaluaciones son tuyas; el reloj no concede progreso académico.
 
 **Becas y oportunidades:** 30 programas internacionales de Asia, Europa y América, para pregrado, maestría, doctorado y estancias de investigación. Filtros, favoritos, universidades, requisitos de nacionalidad y residencia, financiación, guía de preparación y fuentes oficiales. Catálogo consultable sin conexión, revisado el 17 de octubre de 2026; comprueba las bases vigentes antes de postular. Kurisu también tiene una nueva despedida sobre el potencial del futuro.
 
@@ -28,7 +52,7 @@ Desde álgebra, geometría y trigonometría hasta cálculo, álgebra lineal, Fí
 
 Inglés desde cero hasta B2 con Hakari (56 etapas, 1120 ejercicios y 112 lecturas) y Japonés desde cero hacia N5 con Kotoko (32 etapas, 640 ejercicios y 64 lecturas). Teoría explicada, frases que construyes con fichas, pistas y dificultad gradual. El japonés incluye botones de audio con voz del teléfono, modo lento/normal y música atenuada mientras habla. Una voz japonesa instalada permite usarlo sin conexión; no califica pronunciación ni expide certificación JLPT.
 
-En **Ajustes → Idioma de la aplicación**, elige **Español / English** conservando tu avance. La interfaz, los comentarios de Inicio y Álgebra, Geometría y Trigonometría tienen inglés revisado: 19 etapas y 380 ejercicios con teoría, pistas, errores y diálogos de las siete tutoras. Becas y Métodos de estudio también están completos en ambos idiomas. Las demás lecciones, artículos y el guion de la novela visual mantienen su contenido español hasta los próximos bloques de traducción.
+En **Ajustes → Idioma de la aplicación**, elige **Español / English** conservando tu avance. La interfaz, los comentarios de Inicio y Álgebra, Geometría y Trigonometría tienen inglés revisado: 19 etapas y 380 ejercicios con teoría, pistas, errores y diálogos de las siete tutoras. Becas y Métodos de estudio también están completos en ambos idiomas. Los cursos nuevos tienen controles bilingües, pero sus explicaciones y diálogos educativos conservan español; Inglés C1 usa lecturas y trabajos en inglés con apoyo. Las demás lecciones, artículos y el guion de la novela visual mantienen su contenido español hasta los próximos bloques de traducción.
 
 ## El club de tutoras
 
