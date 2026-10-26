@@ -2,9 +2,9 @@
 
 Tu academia anime para aprender matemáticas, física, computación e idiomas con tutoras, teoría y ejercicios paso a paso.
 
-**[Descargar para Android · Versión 1.5.0](https://github.com/Lumarri/lumar-academy-releases/releases/tag/v1.5.0)**
+**[Descargar para Android · Versión 1.6.0](https://github.com/Lumarri/lumar-academy-releases/releases/tag/v1.6.0)**
 
-En **Assets**, descarga `Lumar-Academy-v1.5.0.apk`. `SHA256SUMS.txt` permite verificar el archivo. El código de la app permanece privado. Los ZIP/TAR de «Source code» contienen solo esta presentación y las capturas.
+En **Assets**, descarga `Lumar-Academy-v1.6.0.apk`. `SHA256SUMS.txt` permite verificar el archivo. El código de la app permanece privado. Los ZIP/TAR de «Source code» contienen solo esta presentación y las capturas.
 
 <p align="center">
   <img src="screenshots/inicio_sakura_kurisu.png" width="220" alt="Inicio nocturno con saludo personalizado y Kurisu encima del diálogo" />
@@ -12,9 +12,24 @@ En **Assets**, descarga `Lumar-Academy-v1.5.0.apk`. `SHA256SUMS.txt` permite ver
   <img src="screenshots/cuantica_tunel_oscuro.png" width="220" alt="Mecánica cuántica con teoría y ejemplos resueltos" />
 </p>
 
-**26 cursos · 337 etapas · 7670 ejercicios**, más 36 ejemplos de mecánica cuántica y 208 lecturas de idiomas. Fórmulas LaTeX, pistas, explicación de errores y progreso guardado en tu dispositivo.
+**28 cursos · 373 etapas · 8390 ejercicios**, más ejemplos resueltos y 208 lecturas de idiomas. Fórmulas LaTeX, pistas, explicación de errores y progreso guardado en tu dispositivo.
 
-**Nuevo en 1.5.0 · El seminario de Urumi:** Teología cristiana con 14 etapas y 280 actividades. Lecturas extensas, fuentes primarias, historia, hermenéutica, debates y un diario para tu interpretación. Compara tradiciones cristianas y distingue doctrina, filosofía, historia y ciencia. Las actividades evalúan la comprensión de argumentos; tus creencias personales no se califican.
+**Nuevo en 1.6.0 · El azar y las partículas:** Probabilidad, exclusiva de Yuno, y Física de partículas, exclusiva de Kurisu. **18 etapas y 360 ejercicios por curso**, con dificultad creciente, teoría universitaria gradual, 108 ejemplos resueltos y 174 textos propios de las tutoras. Pistas y soluciones explican el razonamiento y los errores, con fuentes de MIT, Harvard, CERN, ATLAS, OpenStax y PDG.
+
+**Yuno:** «Una alarma no es una sentencia del Diario del Futuro. Veamos cuántas historias distintas pudieron activar la misma señal.» Su recorrido comienza con eventos y conteo, llega a Bayes y distribuciones y avanza a cadenas de Markov y Monte Carlo.
+
+**Kurisu:** «La palabra “cuántico” no vuelve profundo un botón. Especifica el estado y la medición; después sí podemos hablar de probabilidades.» Enseña las bases necesarias de relatividad y cuántica antes de entrar en partículas, interacciones, detectores, neutrinos, Higgs y evidencia experimental.
+
+**Seis experimentos sin conexión:** Bayes y alarmas, frecuencias simuladas, cadenas de Markov, masa invariante de dos fotones, momento transversal y decaimiento relativista. Puedes modificar los parámetros y observar el resultado; las simulaciones explican sus límites y no conceden progreso académico.
+
+<p align="center">
+  <img src="screenshots/probabilidad_yuno.png" width="210" alt="Yuno presenta la etapa de Bayes" />
+  <img src="screenshots/probabilidad_montecarlo_laboratorio.png" width="210" alt="Simulación de frecuencias con Yuno" />
+  <img src="screenshots/particulas_kurisu.png" width="210" alt="Kurisu presenta el Higgs y las masas" />
+  <img src="screenshots/particulas_detector_laboratorio.png" width="210" alt="Reconstrucción de masa invariante" />
+</p>
+
+**Disponible desde 1.5.0 · El seminario de Urumi:** Teología cristiana con 14 etapas y 280 actividades. Lecturas extensas, fuentes primarias, historia, hermenéutica, debates y un diario para tu interpretación. Compara tradiciones cristianas y distingue doctrina, filosofía, historia y ciencia. Las actividades evalúan la comprensión de argumentos; tus creencias personales no se califican.
 
 Urumi conserva su orgullo, ironía, referencias a GTO y comentarios de cuarta pared: «[Sonríe con orgullo] Onizuka improvisaría. Yo preparé una distinción que merece treinta segundos de atención.» Es la anfitriona fija de este curso y conserva tu selección habitual para las demás materias.
 
