@@ -2,9 +2,9 @@
 
 Tu academia anime para aprender matemáticas, física, computación e idiomas con tutoras, teoría y ejercicios paso a paso.
 
-**[Descargar para Android · Versión 1.4.0](https://github.com/Lumarri/lumar-academy-releases/releases/tag/v1.4.0)**
+**[Descargar para Android · Versión 1.5.0](https://github.com/Lumarri/lumar-academy-releases/releases/tag/v1.5.0)**
 
-En **Assets**, descarga `Lumar-Academy-v1.4.0.apk`. `SHA256SUMS.txt` permite verificar el archivo. El código de la app permanece privado. Los ZIP/TAR de «Source code» contienen solo esta presentación y las capturas.
+En **Assets**, descarga `Lumar-Academy-v1.5.0.apk`. `SHA256SUMS.txt` permite verificar el archivo. El código de la app permanece privado. Los ZIP/TAR de «Source code» contienen solo esta presentación y las capturas.
 
 <p align="center">
   <img src="screenshots/inicio_sakura_kurisu.png" width="220" alt="Inicio nocturno con saludo personalizado y Kurisu encima del diálogo" />
@@ -12,11 +12,23 @@ En **Assets**, descarga `Lumar-Academy-v1.4.0.apk`. `SHA256SUMS.txt` permite ver
   <img src="screenshots/cuantica_tunel_oscuro.png" width="220" alt="Mecánica cuántica con teoría y ejemplos resueltos" />
 </p>
 
-**25 cursos · 323 etapas · 7390 ejercicios**, más 36 ejemplos de mecánica cuántica y 208 lecturas de idiomas. Fórmulas LaTeX, pistas, explicación de errores y progreso guardado en tu dispositivo.
+**26 cursos · 337 etapas · 7670 ejercicios**, más 36 ejemplos de mecánica cuántica y 208 lecturas de idiomas. Fórmulas LaTeX, pistas, explicación de errores y progreso guardado en tu dispositivo.
+
+**Nuevo en 1.5.0 · El seminario de Urumi:** Teología cristiana con 14 etapas y 280 actividades. Lecturas extensas, fuentes primarias, historia, hermenéutica, debates y un diario para tu interpretación. Compara tradiciones cristianas y distingue doctrina, filosofía, historia y ciencia. Las actividades evalúan la comprensión de argumentos; tus creencias personales no se califican.
+
+Urumi conserva su orgullo, ironía, referencias a GTO y comentarios de cuarta pared: «[Sonríe con orgullo] Onizuka improvisaría. Yo preparé una distinción que merece treinta segundos de atención.» Es la anfitriona fija de este curso y conserva tu selección habitual para las demás materias.
+
+<p align="center">
+  <img src="screenshots/teologia_ruta.png" width="210" alt="Recorrido del seminario de Teología" />
+  <img src="screenshots/teologia_urumi.png" width="210" alt="Urumi presenta la primera lectura" />
+  <img src="screenshots/teologia_practica.png" width="210" alt="Actividad con pistas y comentarios de Urumi" />
+</p>
+
+La actualización corrige el guardado de reflexiones con emojis y los avisos de éxito cuando una escritura falla. Los respaldos admiten hasta 16 MiB para conservar historiales y notas extensas. También prepara el proyecto para iOS 15+, pero la descarga disponible sigue siendo Android: todavía faltan compilación, firma y pruebas de iPhone.
 
 Desde álgebra, geometría y trigonometría hasta cálculo, álgebra lineal, Física 1 y 2, ciencia de datos y ciencias de la computación. Las materias exclusivas tienen su propia tutora: Kurisu en datos y cuántica, Itsuki en computación y Karane en aritmética de olimpiada.
 
-**Nuevo en 1.4.0 · Seis aulas exclusivas:**
+**También disponibles desde 1.4.0 · Seis aulas exclusivas:**
 
 | Curso | Tutora | Etapas | Ejercicios |
 | --- | --- | ---: | ---: |
@@ -66,7 +78,7 @@ En **Ajustes → Idioma de la aplicación**, elige **Español / English** conser
 | Itsuki Nakano | «Quiero enseñar como mi madre: primero unas bases claras.» |
 | Rukia Kuchiki | «Ichigo no aprendió todo de golpe; tú tampoco necesitas saltarte la introducción para impresionarme.» |
 
-Diálogos originales de la adaptación educativa. **Urumi Kanzaki** acompaña exclusivamente Filosofía en el Cuaderno.
+Diálogos originales de la adaptación educativa. **Urumi Kanzaki** acompaña Filosofía en el Cuaderno y es la anfitriona fija del nuevo curso de Teología.
 
 Inicio, Cursos, Cuaderno y Perfil organizan la academia. Encontrarás rutas de estudio, repaso, música, ajustes de lectura, respaldos locales y un Cuaderno con 50 curiosidades, 19 lecturas de teorías y análisis, 14 documentos de filosofía, 30 becas y ocho guías de estudio. Toda la interfaz usa violeta oscuro pastel.
 
