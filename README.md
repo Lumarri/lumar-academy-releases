@@ -2,9 +2,9 @@
 
 Tu academia anime para aprender matemáticas, física, computación e idiomas con tutoras, teoría y ejercicios paso a paso.
 
-**[Descargar para Android · Versión 1.6.0](https://github.com/Lumarri/lumar-academy-releases/releases/tag/v1.6.0)**
+**[Descargar para Android · Versión 1.7.0](https://github.com/Lumarri/lumar-academy-releases/releases/tag/v1.7.0)**
 
-En **Assets**, descarga `Lumar-Academy-v1.6.0.apk`. `SHA256SUMS.txt` permite verificar el archivo. El código de la app permanece privado. Los ZIP/TAR de «Source code» contienen solo esta presentación y las capturas.
+En **Assets**, descarga `Lumar-Academy-v1.7.0.apk`. `SHA256SUMS.txt` permite verificar el archivo. El código de la app permanece privado. Los ZIP/TAR de «Source code» contienen solo esta presentación y las capturas.
 
 <p align="center">
   <img src="screenshots/inicio_sakura_kurisu.png" width="220" alt="Inicio nocturno con saludo personalizado y Kurisu encima del diálogo" />
@@ -14,7 +14,22 @@ En **Assets**, descarga `Lumar-Academy-v1.6.0.apk`. `SHA256SUMS.txt` permite ver
 
 **28 cursos · 373 etapas · 8390 ejercicios**, más ejemplos resueltos y 208 lecturas de idiomas. Fórmulas LaTeX, pistas, explicación de errores y progreso guardado en tu dispositivo.
 
-**Nuevo en 1.6.0 · El azar y las partículas:** Probabilidad, exclusiva de Yuno, y Física de partículas, exclusiva de Kurisu. **18 etapas y 360 ejercicios por curso**, con dificultad creciente, teoría universitaria gradual, 108 ejemplos resueltos y 174 textos propios de las tutoras. Pistas y soluciones explican el razonamiento y los errores, con fuentes de MIT, Harvard, CERN, ATLAS, OpenStax y PDG.
+**Nuevo en 1.7.0 · Tu sala de exámenes:** **34 pruebas y 716 preguntas** en **Cursos → Exámenes**. Elige entre Admisión, Cursos universitarios y Cursos de Lumar. Los 28 cursos tienen su propio integrador, con preguntas de todas sus etapas, búsqueda y sus tutoras exclusivas; Urumi supervisa Teología.
+
+El reloj es obligatorio y continúa al salir. Puedes cambiar respuestas, marcar preguntas y pedir pistas; al entregar solo aparecen la nota y los aciertos por tema, sin mostrar las respuestas correctas. El historial se incluye en tus respaldos y conserva el progreso de los cursos por separado. Hay 20 preguntas por integrador, salvo Cuántica (24), Inglés hasta B2 (56) y Japonés (32) para cubrir todas sus etapas.
+
+**Kurisu:** «El botón no es una máquina del tiempo: no devolverá los minutos.» **Karane:** «¡Soy tu tutora, no una alternativa marcada!» **Urumi:** «La eternidad es un tema del seminario; este cronómetro no la incluye.»
+
+<p align="center">
+  <img src="screenshots/examenes_catalogo.png" width="210" alt="Exámenes universitarios y selecciones adaptadas de MIT" />
+  <img src="screenshots/examenes_cursos_lumar.png" width="210" alt="Búsqueda entre los integradores de los 28 cursos" />
+  <img src="screenshots/examenes_mit_calculo.png" width="210" alt="Problema de cálculo con tipografía LaTeX" />
+  <img src="screenshots/examenes_resultado.png" width="210" alt="Nota Lumar y resultados por tema sin revelar respuestas" />
+</p>
+
+Los simulacros orientados a UNI y UNAM son originales de Lumar. Las dos selecciones de MIT OCW —18.01 de David Jerison, 2006, y 18.06 de Gilbert Strang, 2010— identifican fuentes y adaptaciones y se distribuyen bajo [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/), con bancos legibles y créditos en la APK. Son referencias educativas; no hay afiliación ni calificación universitaria oficial. Los controles y comentarios son bilingües; las preguntas y pistas se presentan en español, con lecturas en el idioma estudiado.
+
+**Disponible desde 1.6.0 · El azar y las partículas:** Probabilidad, exclusiva de Yuno, y Física de partículas, exclusiva de Kurisu. **18 etapas y 360 ejercicios por curso**, con dificultad creciente, teoría universitaria gradual, 108 ejemplos resueltos y 174 textos propios de las tutoras. Pistas y soluciones explican el razonamiento y los errores, con fuentes de MIT, Harvard, CERN, ATLAS, OpenStax y PDG.
 
 **Yuno:** «Una alarma no es una sentencia del Diario del Futuro. Veamos cuántas historias distintas pudieron activar la misma señal.» Su recorrido comienza con eventos y conteo, llega a Bayes y distribuciones y avanza a cadenas de Markov y Monte Carlo.
 
