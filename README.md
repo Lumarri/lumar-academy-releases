@@ -1,10 +1,10 @@
 # Lumar Academy ♡
 
-Tu academia anime para aprender matemáticas, física, computación e idiomas con tutoras, teoría y ejercicios paso a paso.
+Tu academia anime para aprender matemáticas, física, computación, idiomas y ciencias sociales con personajes, teoría y ejercicios paso a paso.
 
-**[Descargar para Android · Versión 1.7.0](https://github.com/Lumarri/lumar-academy-releases/releases/tag/v1.7.0)**
+**[Descargar para Android · Versión 1.8.0](https://github.com/Lumarri/lumar-academy-releases/releases/tag/v1.8.0)**
 
-En **Assets**, descarga `Lumar-Academy-v1.7.0.apk`. `SHA256SUMS.txt` permite verificar el archivo. El código de la app permanece privado. Los ZIP/TAR de «Source code» contienen solo esta presentación y las capturas.
+En **Assets**, descarga `Lumar-Academy-v1.8.0.apk`. `SHA256SUMS.txt` permite verificar el archivo. El código de la app permanece privado. Los ZIP/TAR de «Source code» contienen solo esta presentación y las capturas.
 
 <p align="center">
   <img src="screenshots/inicio_sakura_kurisu.png" width="220" alt="Inicio nocturno con saludo personalizado y Kurisu encima del diálogo" />
@@ -12,9 +12,29 @@ En **Assets**, descarga `Lumar-Academy-v1.7.0.apk`. `SHA256SUMS.txt` permite ver
   <img src="screenshots/cuantica_tunel_oscuro.png" width="220" alt="Mecánica cuántica con teoría y ejemplos resueltos" />
 </p>
 
-**28 cursos · 373 etapas · 8390 ejercicios**, más ejemplos resueltos y 208 lecturas de idiomas. Fórmulas LaTeX, pistas, explicación de errores y progreso guardado en tu dispositivo.
+**32 cursos · 431 etapas · 10.570 ejercicios**, más ejemplos resueltos y 208 lecturas de idiomas. Fórmulas LaTeX, pistas, explicación de errores y progreso guardado en tu dispositivo.
 
-**Nuevo en 1.7.0 · Tu sala de exámenes:** **34 pruebas y 716 preguntas** en **Cursos → Exámenes**. Elige entre Admisión, Cursos universitarios y Cursos de Lumar. Los 28 cursos tienen su propio integrador, con preguntas de todas sus etapas, búsqueda y sus tutoras exclusivas; Urumi supervisa Teología.
+**Nuevo en 1.8.0 · El tablero de Lelouch:** cuatro cursos exclusivos y **2.180 ejercicios nuevos**, con humor, referencias a CODE GEASS y comentarios que rompen la cuarta pared.
+
+| Curso | Etapas | Ejercicios |
+| --- | ---: | ---: |
+| Ciencias políticas y Geopolítica | 20 | 1.000 |
+| Ciencias cognitivas | 20 | 1.000 |
+| Conducta, decisiones y psicología forense | 9 | 90 |
+| Organizaciones, negociación y políticas públicas | 9 | 90 |
+
+Primero comprende la teoría y los ejemplos; después contrasta tus ideas con casos, pistas y explicaciones. Los dos seminarios incorporan más de 10.000 palabras de teoría y **36 casos con decisiones y consecuencias**, distribuidos en psicología cognitiva y forense, economía del comportamiento, recursos humanos, negociación colectiva y políticas públicas. Ciencias cognitivas añade cuatro demostraciones sin conexión. Las preferencias políticas y las decisiones de lectura no se califican.
+
+**Lelouch:** «No necesito tu obediencia: necesito que puedas defender una conclusión.» Sus siete poses de explicación cambian entre etapas y ejercicios; también varían al pasar de sección o explorar decisiones. Pistas, errores, aciertos y rachas conservan sus gestos, con las PNG por encima del diálogo.
+
+<p align="center">
+  <img src="screenshots/social_catalogo.png" width="210" alt="Los cuatro cursos de Ciencias sociales" />
+  <img src="screenshots/cognicion_laboratorio.png" width="210" alt="Laboratorio cognitivo local" />
+  <img src="screenshots/lelouch_lectura.png" width="210" alt="Lelouch comenta una lectura" />
+  <img src="screenshots/lelouch_caso.png" width="210" alt="Lelouch comenta una decisión" />
+</p>
+
+**Tu sala de exámenes:** **38 pruebas y 796 preguntas** en **Cursos → Exámenes**. Elige entre Admisión, Cursos universitarios y Cursos de Lumar. Los 32 cursos tienen su propio integrador, con preguntas de todas sus etapas, búsqueda y sus tutoras exclusivas; Urumi supervisa Teología.
 
 El reloj es obligatorio y continúa al salir. Puedes cambiar respuestas, marcar preguntas y pedir pistas; al entregar solo aparecen la nota y los aciertos por tema, sin mostrar las respuestas correctas. El historial se incluye en tus respaldos y conserva el progreso de los cursos por separado. Hay 20 preguntas por integrador, salvo Cuántica (24), Inglés hasta B2 (56) y Japonés (32) para cubrir todas sus etapas.
 
@@ -22,7 +42,7 @@ El reloj es obligatorio y continúa al salir. Puedes cambiar respuestas, marcar 
 
 <p align="center">
   <img src="screenshots/examenes_catalogo.png" width="210" alt="Exámenes universitarios y selecciones adaptadas de MIT" />
-  <img src="screenshots/examenes_cursos_lumar.png" width="210" alt="Búsqueda entre los integradores de los 28 cursos" />
+  <img src="screenshots/examenes_cursos_lumar.png" width="210" alt="Búsqueda entre los integradores de los 32 cursos" />
   <img src="screenshots/examenes_mit_calculo.png" width="210" alt="Problema de cálculo con tipografía LaTeX" />
   <img src="screenshots/examenes_resultado.png" width="210" alt="Nota Lumar y resultados por tema sin revelar respuestas" />
 </p>
