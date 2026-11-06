@@ -2,9 +2,9 @@
 
 Tu academia anime para aprender matemáticas, física, computación, idiomas y ciencias sociales con personajes, teoría y ejercicios paso a paso.
 
-**[Descargar para Android · Versión 1.8.0](https://github.com/Lumarri/lumar-academy-releases/releases/tag/v1.8.0)**
+**[Descargar para Android · Versión 1.9.0](https://github.com/Lumarri/lumar-academy-releases/releases/tag/v1.9.0)**
 
-En **Assets**, descarga `Lumar-Academy-v1.8.0.apk`. `SHA256SUMS.txt` permite verificar el archivo. El código de la app permanece privado. Los ZIP/TAR de «Source code» contienen solo esta presentación y las capturas.
+En **Assets**, descarga `Lumar-Academy-v1.9.0.apk`. `SHA256SUMS.txt` permite verificar el archivo. El código de la app permanece privado. Los ZIP/TAR de «Source code» contienen solo esta presentación y las capturas.
 
 <p align="center">
   <img src="screenshots/inicio_sakura_kurisu.png" width="220" alt="Inicio nocturno con saludo personalizado y Kurisu encima del diálogo" />
@@ -14,7 +14,20 @@ En **Assets**, descarga `Lumar-Academy-v1.8.0.apk`. `SHA256SUMS.txt` permite ver
 
 **32 cursos · 431 etapas · 10.570 ejercicios**, más ejemplos resueltos y 208 lecturas de idiomas. Fórmulas LaTeX, pistas, explicación de errores y progreso guardado en tu dispositivo.
 
-**Nuevo en 1.8.0 · El tablero de Lelouch:** cuatro cursos exclusivos y **2.180 ejercicios nuevos**, con humor, referencias a CODE GEASS y comentarios que rompen la cuarta pared.
+**Nuevo en 1.9.0 · Escucha con Hakari:** una Sala de Listening en **Inicio → Descubrir**, con **20 situaciones de Inglés A2**, preguntas con tres alternativas, estrategias, correcciones y transcripción después de responder. Repite o usa modo lento/normal; el progreso distingue los primeros intentos y el apoyo del texto. Hakari tiene 42 intervenciones propias, expresiones, referencias y cuarta pared. La sala de Japonés está marcada como próxima ampliación.
+
+**Audio en los cursos de Inglés:** conversación, modelos, vocabulario, ejemplos y las **144 lecturas** de Hakari y Karane. Comparte el reproductor de Japonés, atenúa la música y se detiene al salir. Utiliza la voz inglesa instalada en el teléfono; no es la voz de la actriz. La descarga inicial de la voz requiere conexión y después puede funcionar sin red. No se usa el micrófono.
+
+<p align="center">
+  <img src="screenshots/listening_sala.png" width="220" alt="Sala de Listening con Hakari" />
+  <img src="screenshots/listening_a2.png" width="220" alt="Inglés A2 con audio y alternativas" />
+  <img src="screenshots/ingles_audio_lectura.png" width="220" alt="Lectura de Inglés con audio, velocidad y ayuda" />
+  <img src="screenshots/ingles_audio_c1.png" width="220" alt="Karane acompaña ejemplos C1 con altavoces" />
+</p>
+
+El avance de la sala se guarda en el dispositivo y se incluye en los respaldos. No modifica las notas de los cursos ni acredita un nivel oficial de inglés. La actualización conserva los 32 cursos, 38 exámenes y contenidos anteriores. Instala la nueva APK sobre la anterior para mantener tus datos.
+
+**Disponible desde 1.8.0 · El tablero de Lelouch:** cuatro cursos exclusivos y **2.180 ejercicios nuevos**, con humor, referencias a CODE GEASS y comentarios que rompen la cuarta pared.
 
 | Curso | Etapas | Ejercicios |
 | --- | ---: | ---: |
