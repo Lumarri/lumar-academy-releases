@@ -1,10 +1,12 @@
 # Lumar Academy ♡
 
+<img src="screenshots/lumar_icon.png" width="76" alt="Icono de Lumar Academy: un libro y un corazón">
+
 Tu academia anime para aprender matemáticas, física, computación, idiomas y ciencias sociales con personajes, teoría y ejercicios paso a paso.
 
-**[Descargar para Android · Versión 1.9.0](https://github.com/Lumarri/lumar-academy-releases/releases/tag/v1.9.0)**
+**[Descargar para Android · Versión 1.10.0](https://github.com/Lumarri/lumar-academy-releases/releases/tag/v1.10.0)**
 
-En **Assets**, descarga `Lumar-Academy-v1.9.0.apk`. `SHA256SUMS.txt` permite verificar el archivo. El código de la app permanece privado. Los ZIP/TAR de «Source code» contienen solo esta presentación y las capturas.
+En **Assets**, descarga `Lumar-Academy-v1.10.0.apk`. `SHA256SUMS.txt` permite verificar el archivo. El código de la app permanece privado. Los ZIP/TAR de «Source code» contienen solo esta presentación y las capturas.
 
 <p align="center">
   <img src="screenshots/inicio_sakura_kurisu.png" width="220" alt="Inicio nocturno con saludo personalizado y Kurisu encima del diálogo" />
@@ -12,9 +14,26 @@ En **Assets**, descarga `Lumar-Academy-v1.9.0.apk`. `SHA256SUMS.txt` permite ver
   <img src="screenshots/cuantica_tunel_oscuro.png" width="220" alt="Mecánica cuántica con teoría y ejemplos resueltos" />
 </p>
 
-**32 cursos · 431 etapas · 10.570 ejercicios**, más ejemplos resueltos y 208 lecturas de idiomas. Fórmulas LaTeX, pistas, explicación de errores y progreso guardado en tu dispositivo.
+**32 cursos · 437 etapas · 10.690 ejercicios**, más ejemplos resueltos y 208 lecturas de idiomas. Fórmulas LaTeX, pistas, explicación de errores y progreso guardado en tu dispositivo.
 
-**Nuevo en 1.9.0 · Escucha con Hakari:** una Sala de Listening en **Inicio → Descubrir**, con **20 situaciones de Inglés A2**, preguntas con tres alternativas, estrategias, correcciones y transcripción después de responder. Repite o usa modo lento/normal; el progreso distingue los primeros intentos y el apoyo del texto. Hakari tiene 42 intervenciones propias, expresiones, referencias y cuarta pared. La sala de Japonés está marcada como próxima ampliación.
+**Nuevo en 1.10.0 · Una academia renovada:** Álgebra, Geometría y Trigonometría incorporan 38 secciones de teoría, 38 ejemplos adicionales, 19 laboratorios interactivos y 19 comprobaciones conceptuales en español e inglés, conservando sus 380 ejercicios y el progreso.
+
+**El taller de Karane crece a 18 etapas y 360 retos:** 303 problemas nuevos sustituyen variantes repetitivas y amplían el temario con decimales periódicos y error, sucesiones, funciones aritméticas, Euler y órdenes, residuos cuadráticos y fracciones continuas. Hay teoría por secciones, ejemplos, pistas y pasos resueltos. Karane estrena más comentarios con Hakari, Rentarou y cuarta pared: «¡No me obligues a demostrarlo por contradicción!». Dispone de 140 frases de reacción y de introducciones y despedidas por etapa.
+
+Las preguntas conservadas mantienen su avance; los registros de los ejercicios sustituidos quedan archivados, con sus puntos y respaldos. Un examen de la edición anterior conserva su banco y su plazo. El nuevo icono de libro y corazón acompaña esta versión.
+
+<p align="center">
+  <img src="screenshots/remaster_algebra.png" width="210" alt="Laboratorio de la edición renovada de Álgebra">
+  <img src="screenshots/remaster_geometria.png" width="210" alt="Construcciones visuales de Geometría">
+  <img src="screenshots/remaster_trigonometria_en.png" width="210" alt="Trigonometría renovada en inglés">
+</p>
+<p align="center">
+  <img src="screenshots/aritmetica_remaster_ruta.png" width="210" alt="Las 18 etapas del taller de Karane">
+  <img src="screenshots/aritmetica_remaster_teoria.png" width="210" alt="Teoría aritmética con fórmulas LaTeX">
+  <img src="screenshots/aritmetica_remaster_karane.png" width="210" alt="Karane ofrece una pista del problema actual">
+</p>
+
+**Disponible desde 1.9.0 · Escucha con Hakari:** una Sala de Listening en **Inicio → Descubrir**, con **20 situaciones de Inglés A2**, preguntas con tres alternativas, estrategias, correcciones y transcripción después de responder. Repite o usa modo lento/normal; el progreso distingue los primeros intentos y el apoyo del texto. Hakari tiene 42 intervenciones propias, expresiones, referencias y cuarta pared. La sala de Japonés está marcada como próxima ampliación.
 
 **Audio en los cursos de Inglés:** conversación, modelos, vocabulario, ejemplos y las **144 lecturas** de Hakari y Karane. Comparte el reproductor de Japonés, atenúa la música y se detiene al salir. Utiliza la voz inglesa instalada en el teléfono; no es la voz de la actriz. La descarga inicial de la voz requiere conexión y después puede funcionar sin red. No se usa el micrófono.
 
